@@ -1,0 +1,35 @@
+input {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid green;
+  border-radius: 22px;
+}
+
+p {
+	margin-bottom: auto;
+}
+
+.data_grid {
+	display: grid;
+  	grid-template-rows: auto;
+}
+
+.buttons {
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+
+.button {
+	display: inline;
+	height: 40px;
+	border-radius: 20px;
+	border: none;
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: green;
+	font-weight: bold;
+}
