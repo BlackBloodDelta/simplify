@@ -45,3 +45,21 @@
         </form>
     </body>
 </html>
+
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/5.9.4/firebase.js"></script>
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyD1B9BnIrfe_NrgSa7GpmCtCllO1b49SLA",
+        authDomain: "simplify-162a5.firebaseapp.com",
+        databaseURL: "https://simplify-162a5.firebaseio.com",
+        projectId: "simplify-162a5",
+        storageBucket: "simplify-162a5.appspot.com",
+        messagingSenderId: "367991540516"
+    };
+    firebase.initializeApp(config);
+</script>
