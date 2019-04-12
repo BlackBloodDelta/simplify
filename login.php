@@ -8,6 +8,9 @@
     <body>
         <form name="form_login" method="post" action="login.php">
             <div class="jumbotron">
+                <div class="title">
+                    <h2>Simplify systems</h2>
+                </div>
                 <div class="login">
                     <div class="data_grid">
                         <div>

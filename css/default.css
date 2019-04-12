@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+body {
+	background-color: rgba(0, 80, 0, 0.15);
+}
+
 .jumbotron {
 	display: block;
 	right: 0;
@@ -7,7 +11,13 @@
 	margin: auto;
 	width: 890px;
 	text-align: center;
-	background-color: #DCDCDC;
+	background-color: #ebebeb;
 	padding: 20px 15px;
     font-family: 'Raleway', sans-serif;
+	box-shadow: 0 0 8px 0 #8d8d8d;
+}
+
+.title {
+	text-transform: capitalize;
+	line-height: 20px;
 }
