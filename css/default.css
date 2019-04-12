@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.jumbotron {
+	display: block;
+	right: 0;
+	left: 0;
+	margin: auto;
+	width: 890px;
+	text-align: center;
+	background-color: #DCDCDC;
+	padding: 20px 15px;
+    font-family: 'Raleway', sans-serif;
+}
